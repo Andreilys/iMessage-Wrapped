@@ -1,6 +1,6 @@
 # iMessage Wrapped 📱✨
 
-![iMessage Wrapped Hero](docs/header_image.png)
+![iMessage Wrapped Hero](hero_banner.jpg)
 
 > **"Turn your iMessage history into a beautiful, shareable 'Wrapped' experience with private, on-device AI analytics."**
 
@@ -45,14 +45,9 @@ Ever wondered who you actually talk to the most? Or if you're *really* the one i
 *   **Chip**: Apple Silicon (M1+) recommended for best performance.
 *   **Permissions**: Full Disk Access (required to read `chat.db`).
 
-## 🚀 Installation
+## 🚀 Get the App
 
-It's easy to get started. No coding required.
-
-### Download the App
-1.  Go to the **[Releases](releases)** folder (or check the latest release on GitHub).
-2.  Download **`iMessage Wrapped.app`**.
-3.  Move the app to your **Applications** folder.
+Visit the **[Landing Page](https://www.andreilyskov.com/iMessage-Wrapped/)** to download the latest version.
 
 ### Important: Permissions
 Because your messages are private, macOS protects them. You must grant the app permission to read them:
