@@ -47,7 +47,7 @@ Ever wondered who you actually talk to the most? Or if you're *really* the one i
 
 ## 🚀 Get the App
 
-Visit the **[Landing Page](https://www.andreilyskov.com/iMessage-Wrapped/)** to download the latest version.
+Visit the **[Landing Page](https://www.andreilyskov.com/iMessage-Wrapped/)** to download the latest **.dmg** for macOS.
 
 ### Important: Permissions
 Because your messages are private, macOS protects them. You must grant the app permission to read them:
