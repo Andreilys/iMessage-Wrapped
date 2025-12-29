@@ -66,7 +66,7 @@ If you prefer to build it yourself:
 
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/imessage-wrapped.git
+    git clone https://github.com/Andreilys/iMessage-Wrapped.git
     ```
 2.  Open `iMessageWrapped.xcodeproj` in Xcode 15+.
 3.  Press **Cmd + R** to build and run.
