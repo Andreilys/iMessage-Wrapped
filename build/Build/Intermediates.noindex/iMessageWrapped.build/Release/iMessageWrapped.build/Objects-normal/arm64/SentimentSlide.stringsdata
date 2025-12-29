@@ -1,0 +1,32 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/SentimentSlide.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Your Vibe Check",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Positivity",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Based on AI sentiment analysis of your messages.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 71
+        }
+      }
+    ]
+  },
+  "version": 1
+}

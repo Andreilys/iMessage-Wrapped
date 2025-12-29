@@ -1,0 +1,80 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ShareCardRenderer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Saved!",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share...",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy Image",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to Downloads",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show in Finder",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your card has been saved to Downloads",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share Your Wrapped",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 226
+        }
+      }
+    ]
+  },
+  "version": 1
+}

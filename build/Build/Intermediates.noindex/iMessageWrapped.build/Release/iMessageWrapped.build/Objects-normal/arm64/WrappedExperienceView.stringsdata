@@ -1,0 +1,408 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/WrappedExperienceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Start Over",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Prev",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last %lld days",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap anywhere to continue →",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your iMessage",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 269
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wrapped",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "That's about %lld messages per day!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 347
+        }
+      },
+      {
+        "comment": "",
+        "key": "You exchanged",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "messages",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 390
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your #1 contact",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 422
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld messages",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld sent",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 454
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld received",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 455
+        }
+      },
+      {
+        "comment": "",
+        "key": "📱",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start texting!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 467
+        }
+      },
+      {
+        "comment": "",
+        "key": "No contacts with enough data yet.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 470
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Top Conversations",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 494
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap a contact to explore",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "#%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 543
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld sent · %lld received",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 570
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 578
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Top Emojis",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 612
+        }
+      },
+      {
+        "comment": "",
+        "key": "📭",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 617
+        }
+      },
+      {
+        "comment": "",
+        "key": "No emojis found!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 619
+        }
+      },
+      {
+        "comment": "",
+        "key": "Used %lld times",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 628
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 638
+        }
+      },
+      {
+        "comment": "",
+        "key": "When You Message",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 668
+        }
+      },
+      {
+        "comment": "",
+        "key": "is your busiest hour",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 689
+        }
+      },
+      {
+        "comment": "",
+        "key": "🌙",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 703
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 705
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late night",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 708
+        }
+      },
+      {
+        "comment": "",
+        "key": "🌅",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 714
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 716
+        }
+      },
+      {
+        "comment": "",
+        "key": "Early morning",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 719
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Busiest Day",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 805
+        }
+      },
+      {
+        "comment": "",
+        "key": "vs",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 853
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 845
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekday",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 848
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 857
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekend",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 860
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Messaging Style",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 885
+        }
+      },
+      {
+        "comment": "",
+        "key": "Longest message: %lld characters",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 918
+        }
+      },
+      {
+        "comment": "",
+        "key": "That's like a mini essay! 📝",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 922
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Messaging Personality",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 995
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your %lld-Day Summary",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1052
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thanks for using",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1078
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1082
+        }
+      }
+    ]
+  },
+  "version": 1
+}

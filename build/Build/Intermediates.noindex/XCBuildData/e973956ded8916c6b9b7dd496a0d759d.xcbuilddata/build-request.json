@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "50663ffc3f1d59779a395b01ab501bc17a2344a65f8cb341eaa6af271cc215c0"
+    }
+  ],
+  "containerPath" : "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx26.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Products",
+      "derivedDataPath" : "/Users/andreilyskov/Downloads/iMessage AI/build",
+      "indexDataStoreFolderPath" : "/Users/andreilyskov/Downloads/iMessage AI/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/andreilyskov/Downloads/iMessage AI/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CONFIGURATION_BUILD_DIR" : "/Users/andreilyskov/Downloads/iMessage AI/releases"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "54",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023 $(inherited)"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

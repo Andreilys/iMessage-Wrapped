@@ -1,0 +1,131 @@
+{
+  "" : {
+    "const-values" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.swiftconstvalues",
+    "dependencies" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.d",
+    "diagnostics" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.dia",
+    "emit-module-dependencies" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary-emit-module.dia",
+    "pch" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.swiftdeps"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/AIInsightsManager.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsManager.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsManager.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsManager.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/AIInsightsSlide.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsSlide.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsSlide.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AIInsightsSlide.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/AdvancedAIAnalyzer.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AdvancedAIAnalyzer.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AdvancedAIAnalyzer.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/AdvancedAIAnalyzer.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ClaudeAPIManager.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAPIManager.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAPIManager.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAPIManager.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ClaudeAnalysisSlide.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAnalysisSlide.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAnalysisSlide.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ClaudeAnalysisSlide.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ContentView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ConversationDeepDiveView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ConversationDeepDiveView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ConversationDeepDiveView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ConversationDeepDiveView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/InsightModels.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightModels.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightModels.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightModels.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/InsightsChatView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsChatView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsChatView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsChatView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/InsightsTabContainer.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsTabContainer.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsTabContainer.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/InsightsTabContainer.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/MessageAnalytics.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/MessageAnalytics.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/MessageAnalytics.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/MessageAnalytics.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/NarrativeInsights.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NarrativeInsights.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NarrativeInsights.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NarrativeInsights.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/NovelInsightSlides.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NovelInsightSlides.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NovelInsightSlides.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/NovelInsightSlides.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/OnboardingView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OnboardingView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/OpenAIAPIManager.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAPIManager.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAPIManager.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAPIManager.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/OpenAIAnalysisSlide.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAnalysisSlide.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAnalysisSlide.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/OpenAIAnalysisSlide.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/SentimentSlide.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/SentimentSlide.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/SentimentSlide.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/SentimentSlide.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ShareCardRenderer.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardRenderer.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardRenderer.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardRenderer.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ShareCardView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/ShareCardView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/WrappedExperienceView.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedExperienceView.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedExperienceView.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedExperienceView.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/WrappedViewModel.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedViewModel.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedViewModel.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/WrappedViewModel.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/iMessageDatabaseReader.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageDatabaseReader.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageDatabaseReader.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageDatabaseReader.o"
+  },
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/iMessageWrappedApp.swift" : {
+    "index-unit-output-path" : "/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrappedApp.o",
+    "llvm-bc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrappedApp.bc",
+    "object" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrappedApp.o"
+  }
+}

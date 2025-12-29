@@ -1,0 +1,184 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/AIInsightsSlide.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "AI is crafting your story...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Using Private On-Device Intelligence",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI-Powered Insights",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key Moments",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "✦",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Relationship Highlights",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Couldn't generate AI insights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Generate AI Insights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let Private On-Device Intelligence analyze your messaging patterns",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Generate",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Insights Unavailable",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requires macOS 26+ for Private On-Device Intelligence",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Insights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 253
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requires macOS 26 (Tahoe) or later with Apple Intelligence",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alternative: Use Local LLM",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run Ollama or MLX for AI-powered analysis with larger context windows",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld messages",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "LLMs have a \"context window\" - the maximum amount of text they can process at once. Here's how different options compare:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 394
+        }
+      },
+      {
+        "comment": "",
+        "key": "About AI Context Windows",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldK tokens",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 413
+        }
+      },
+      {
+        "comment": "",
+        "key": "~%lld msgs",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 416
+        }
+      }
+    ]
+  },
+  "version": 1
+}

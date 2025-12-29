@@ -1,0 +1,12 @@
+{
+  "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/iMessageWrappedApp.swift" : {
+    "abi-baseline-json" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessage_AI.abi.json",
+    "const-values" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.swiftconstvalues",
+    "dependencies" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.d",
+    "diagnostics" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessageWrapped-primary.dia",
+    "objc-header" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessage_AI-Swift.h",
+    "swiftdoc" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessage_AI.swiftdoc",
+    "swiftmodule" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessage_AI.swiftmodule",
+    "swiftsourceinfo" : "/Users/andreilyskov/Downloads/iMessage AI/build/Build/Intermediates.noindex/iMessageWrapped.build/Release/iMessageWrapped.build/Objects-normal/arm64/iMessage_AI.swiftsourceinfo"
+  }
+}

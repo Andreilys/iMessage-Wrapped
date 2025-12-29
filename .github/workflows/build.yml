@@ -1,0 +1,95 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version number (e.g., 1.0.0)'
+        required: true
+        default: '1.0.0'
+
+jobs:
+  build:
+    runs-on: macos-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set version
+      id: version
+      run: |
+        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          echo "VERSION=${{ github.event.inputs.version }}" >> $GITHUB_OUTPUT
+        else
+          echo "VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Select Xcode
+      run: sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+    
+    - name: Build
+      run: |
+        xcodebuild -project iMessageWrapped.xcodeproj \
+                   -scheme iMessageWrapped \
+                   -configuration Release \
+                   -derivedDataPath build \
+                   build
+    
+    - name: Create ZIP
+      run: |
+        cd build/Build/Products/Release
+        zip -r iMessageWrapped.zip iMessageWrapped.app
+        mv iMessageWrapped.zip ${{ github.workspace }}/
+    
+    - name: Create DMG
+      run: |
+        cd build/Build/Products/Release
+        hdiutil create -volname "iMessage Wrapped" \
+                       -srcfolder iMessageWrapped.app \
+                       -ov -format UDZO \
+                       iMessageWrapped.dmg
+        mv iMessageWrapped.dmg ${{ github.workspace }}/
+    
+    - name: Upload ZIP artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: iMessageWrapped-zip
+        path: iMessageWrapped.zip
+    
+    - name: Upload DMG artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: iMessageWrapped-dmg
+        path: iMessageWrapped.dmg
+    
+    - name: Create Release
+      if: startsWith(github.ref, 'refs/tags/')
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          iMessageWrapped.zip
+          iMessageWrapped.dmg
+        body: |
+          ## iMessage Wrapped v${{ steps.version.outputs.VERSION }}
+          
+          ### Installation
+          1. Download the ZIP or DMG file below
+          2. Unzip / Open the DMG and drag to Applications
+          3. **Right-click** the app and select **Open** (required first time)
+          4. Grant Full Disk Access in System Settings → Privacy & Security
+          
+          ### Requirements
+          - macOS 14.0 (Sonoma) or later
+          - Full Disk Access permission
+          
+          ### Checksums
+          ```
+          SHA256 (ZIP): ${{ hashFiles('iMessageWrapped.zip') }}
+          SHA256 (DMG): ${{ hashFiles('iMessageWrapped.dmg') }}
+          ```
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

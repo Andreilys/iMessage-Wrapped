@@ -1,0 +1,352 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/OpenAIAnalysisSlide.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "◯",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "OpenAI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connected",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not connected",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage API Key",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connected to OpenAI API",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Update Key",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disconnect",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Updated!",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect to OpenAI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use GPT-4o's 128K context window for deep message analysis",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Setup",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "sk-...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "sk-...",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connecting...",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model Selection",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "GPT-4o Mini is extremely affordable. GPT-4o provides the best quality.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 327
+        }
+      },
+      {
+        "comment": "",
+        "key": "Estimated Costs",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 377
+        }
+      },
+      {
+        "comment": "",
+        "key": "~%lld msgs",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 463
+        }
+      },
+      {
+        "comment": "",
+        "key": "OpenAI Analysis",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 527
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use GPT-4o's 128K context for deep insights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 531
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add OpenAI API Key",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ready for Analysis",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 574
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 597
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld messages",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 582
+        }
+      },
+      {
+        "comment": "",
+        "key": "Estimated cost: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 586
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyze with GPT-4",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 609
+        }
+      },
+      {
+        "comment": "",
+        "key": "GPT-4 is analyzing your messages...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 642
+        }
+      },
+      {
+        "comment": "",
+        "key": "GPT-4 Analysis",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 675
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key Moments",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 705
+        }
+      },
+      {
+        "comment": "",
+        "key": "✦",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 711
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fun Facts",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 723
+        }
+      },
+      {
+        "comment": "",
+        "key": "🎯",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 729
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis Failed",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 781
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 791
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 798
+        }
+      }
+    ]
+  },
+  "version": 1
+}

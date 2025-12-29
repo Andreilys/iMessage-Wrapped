@@ -1,0 +1,208 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ShareCardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "iMessage AI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld days of messages",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "2024",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Communication DNA",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI 2024",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Inner Circle",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI 2024",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld msgs",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 353
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Emoji Story",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 388
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI 2024",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 455
+        }
+      },
+      {
+        "comment": "",
+        "key": "Used %lld times",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "×%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 416
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 428
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 431
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 436
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unique",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 439
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 444
+        }
+      },
+      {
+        "comment": "",
+        "key": "of msgs",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 447
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Vibe Check",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI 2024",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 531
+        }
+      },
+      {
+        "comment": "",
+        "key": "😢",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 519
+        }
+      },
+      {
+        "comment": "",
+        "key": "😐",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 521
+        }
+      },
+      {
+        "comment": "",
+        "key": "😊",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 523
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,408 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ClaudeAnalysisSlide.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "C",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Claude AI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connected",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not connected",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage API Key",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connected to Claude API",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Update Key",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disconnect",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Updated!",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect to Claude",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyze your full year of messages with Claude's 200K context window",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 198
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Setup",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Key",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "sk-ant-api03-...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "sk-ant-api03-...",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connecting...",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "New accounts get $5 free API credits",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model Selection",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Why can't I use my Claude Pro/Max subscription?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 328
+        }
+      },
+      {
+        "comment": "",
+        "key": "Claude Pro/Max vs API Credits",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Anthropic restricts OAuth to first-party apps. When third-party apps try OAuth, they get: *\"This credential is only authorized for use with Claude Code.\"*",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "The good news: API usage is very affordable (~$0.01-0.50 for a full iMessage analysis), and new accounts get $5 free!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "**Claude Pro/Max** ($20-100/mo): For claude.ai web/app, unlimited use within limits",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 345
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 348
+        }
+      },
+      {
+        "comment": "",
+        "key": "**API Credits** (pay-per-use): For developers building apps like this one",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 349
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 417
+        }
+      },
+      {
+        "comment": "",
+        "key": "Claude AI Analysis",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 543
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get the deepest insights with Claude's 200K context window",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 547
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Claude API Key",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 562
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ready for Deep Analysis",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 590
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 613
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld messages",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 598
+        }
+      },
+      {
+        "comment": "",
+        "key": "Estimated cost: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 602
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyze with Claude",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 625
+        }
+      },
+      {
+        "comment": "",
+        "key": "Claude is analyzing your messages...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 658
+        }
+      },
+      {
+        "comment": "",
+        "key": "Claude's Analysis",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key Moments",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 721
+        }
+      },
+      {
+        "comment": "",
+        "key": "✦",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 727
+        }
+      },
+      {
+        "comment": "",
+        "key": "Relationship Highlights",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 739
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fun Facts",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 756
+        }
+      },
+      {
+        "comment": "",
+        "key": "🎯",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 762
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis Failed",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 814
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 824
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 831
+        }
+      }
+    ]
+  },
+  "version": 1
+}

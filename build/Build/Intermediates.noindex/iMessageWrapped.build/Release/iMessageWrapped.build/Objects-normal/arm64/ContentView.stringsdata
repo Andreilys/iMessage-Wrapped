@@ -1,0 +1,144 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Disk Access Required",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open System Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI needs Full Disk Access to read your messages.\n\nGo to System Settings → Privacy & Security → Full Disk Access and enable it for this app.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Need Full Disk Access?",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Welcome Screen",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Disk Access Help",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMessage AI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discover your messaging year in review",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select Time Period",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyze My Messages",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyzing your messages with on-device AI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 462
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Analytics...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 505
+        }
+      }
+    ]
+  },
+  "version": 1
+}

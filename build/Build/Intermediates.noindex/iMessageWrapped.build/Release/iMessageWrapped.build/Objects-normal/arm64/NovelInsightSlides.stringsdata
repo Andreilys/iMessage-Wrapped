@@ -1,0 +1,440 @@
+{
+  "source": "/Users/andreilyskov/Downloads/iMessage AI/iMessageWrapped/NovelInsightSlides.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "You're",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Relationship Dynamics",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 460
+        }
+      },
+      {
+        "comment": "",
+        "key": "Who initiates? Who responds more?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 518
+        }
+      },
+      {
+        "comment": "",
+        "key": "Initiative",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 527
+        }
+      },
+      {
+        "comment": "",
+        "key": "They start",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 545
+        }
+      },
+      {
+        "comment": "",
+        "key": "You start",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 549
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld sent",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 557
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld received",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 558
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Topic Universe",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 588
+        }
+      },
+      {
+        "comment": "",
+        "key": "What you talk about most",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 592
+        }
+      },
+      {
+        "comment": "",
+        "key": "🔍",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 599
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not enough data yet",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 601
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep chatting to discover your topics!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 604
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 622
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@%% of conversations",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 628
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your World",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 708
+        }
+      },
+      {
+        "comment": "",
+        "key": "Places, people, and things you discuss",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 713
+        }
+      },
+      {
+        "comment": "",
+        "key": "×%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 776
+        }
+      },
+      {
+        "comment": "",
+        "key": "Emoji Deep Dive",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 806
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 813
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total Emojis",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 816
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 822
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unique",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 825
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 852
+        }
+      },
+      {
+        "comment": "",
+        "key": "×%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 841
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Signature Combos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 869
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Temporal Rhythms",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 910
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inferred sleep: %@ - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 991
+        }
+      },
+      {
+        "comment": "",
+        "key": "Work-Life Balance",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 922
+        }
+      },
+      {
+        "comment": "",
+        "key": "Work Hours",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 939
+        }
+      },
+      {
+        "comment": "",
+        "key": "Personal Time",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 943
+        }
+      },
+      {
+        "comment": "",
+        "key": "When You're Most Active",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 954
+        }
+      },
+      {
+        "comment": "",
+        "key": "12am",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 973
+        }
+      },
+      {
+        "comment": "",
+        "key": "6am",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 975
+        }
+      },
+      {
+        "comment": "",
+        "key": "12pm",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 977
+        }
+      },
+      {
+        "comment": "",
+        "key": "6pm",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 979
+        }
+      },
+      {
+        "comment": "",
+        "key": "12am",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 981
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connection Patterns",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1023
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ghosting, reconnections, and more",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1028
+        }
+      },
+      {
+        "comment": "",
+        "key": "✨",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1043
+        }
+      },
+      {
+        "comment": "",
+        "key": "No drama detected!",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1045
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your conversations flow smoothly without ghosting or reconnection patterns.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1048
+        }
+      },
+      {
+        "comment": "",
+        "key": "🔥",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Most Intense Conversations",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1117
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld msgs in %lld min",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1145
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mind-blowing observations from your messages",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1214
+        }
+      },
+      {
+        "comment": "",
+        "key": "No AI revelations generated",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1231
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Revelations",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1207
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share Your Wrapped",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1321
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show off your messaging year",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1327
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1368
+        }
+      }
+    ]
+  },
+  "version": 1
+}
